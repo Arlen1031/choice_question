@@ -1,0 +1,12 @@
+.btn{ 
+	display: inline-block;
+	width: 90px;
+	height: 34px;
+	background-color: #42B983;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 32px;
+	box-sizing: border-box;
+	border: 1px solid #42B983;
+	border-radius: 4px;
+}
