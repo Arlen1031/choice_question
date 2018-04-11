@@ -6,6 +6,14 @@
 
 >  开发环境 win7 nodejs 8.7.0
 
+> git clone https://github.com/Arlen1031/choice_question.git 
+
+> cd choice_question
+
+> npm install
+
+> npm run dev
+
 
 ## Build Setup
 
